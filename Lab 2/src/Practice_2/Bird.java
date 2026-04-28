@@ -8,4 +8,6 @@ abstract public class Bird {
         this.weight = weight;
         this.fly = fly;
     }
+
+    abstract public void eating();
 }
